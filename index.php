@@ -40,7 +40,7 @@
         <li><a href="#portfolio">PORTFOLIO</a></li>
         <li><a href="#pricing">PRICING</a></li>
         <li><a href="#contact">CONTACT</a></li>
-		<li><a href="login-system/index.php">LOGIN</a></li>
+        <li><a href="../login-system/index.php">LOGIN</a></li>
       </ul>
     </div>
   </div>
@@ -134,21 +134,21 @@
   <div class="row text-center slideanim">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="puppy-tp.jpg" alt="puppy-tp" width="400" height="300">
+          <img src="image/puppy-tp.jpg" alt="puppy-tp" width="400" height="300">
         <p><strong>InStock</strong></p>
         <p>Yes, we built Paris</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="empty-tp.jpg" alt="Empty-tp" width="400" height="300">
+        <img src="image/empty-tp.jpg" alt="Empty-tp" width="400" height="300">
         <p><strong>Damm!</strong></p>
         <p>We built New York</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="empty-tp1.jpg" alt="San Francisco" width="400" height="300">
+        <img src="image/empty-tp1.jpg" alt="San Francisco" width="400" height="300">
         <p><strong>Damit</strong></p>
         <p>Yes, San Fran is ours</p>
       </div>
