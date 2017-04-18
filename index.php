@@ -64,9 +64,9 @@
   <div class="row">
     <div class="col-sm-8">
       <h2>About Company Page</h2><br>
-      <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <br><button class="btn btn-default btn-lg">Get in Touch</button>
+      <h4>We belive that we all live busy lives. The most annoying thing that can happen to you is the dreaded empty roll of toilet paper. And guess what, you are out of toilet paper.</h4><br>
+      <h4>The toiletPaper Company has put together a fantastic service that combines home delivery with reading material with Smart packing</h4>
+      <br><button class="btn btn-default btn-lg" a href="#contact" >Get in Touch</button>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-signal logo"></span>
@@ -81,9 +81,13 @@
     </div>
     <div class="col-sm-8">
       <h2>Our Values</h2><br>
-      <h4><strong>MISSION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
-      <p><strong>VISION:</strong> Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h4><strong>MISSION:</strong> allows users to order toilet paper online and to control the supply chain service. </h4><br>
+      <p><strong>VISION:</strong> In addition to easy of convenience, of ordering toilet paper and controlling the daily
+amount required. We have put together a smart packaging, that is based on a cube
+design. The innovative design is slim and sturdy enough to handle the riggers of the
+postal service, petite and flexible enough to fix in your standard mail box for door
+delivery and clever enough to serve as a dispenser to can fit with your existing toilet
+paper holder.</p>
     </div>
   </div>
 </div>
@@ -96,40 +100,22 @@
   <div class="row slideanim">
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-off logo-small"></span>
-      <h4>POWER</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>CONVENIENCE </h4>
+      <p>The piece of mind of always having stock</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-heart logo-small"></span>
       <h4>LOVE</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <p>Smart packing for easy door to door delivery </p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-lock logo-small"></span>
-      <h4>JOB DONE</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <span class="glyphicon glyphicon-leaf logo-small"></span>
+      <h4>CONTENT</h4>
+      <p>Always have your favorite reading material</p>
     </div>
   </div>
   <br><br>
-  <div class="row slideanim">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-leaf logo-small"></span>
-      <h4>GREEN</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-certificate logo-small"></span>
-      <h4>CERTIFIED</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-wrench logo-small"></span>
-      <h4 style="color:#303030;">HARD WORK</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-  </div>
-</div>
-
+  
 <!-- Container (Portfolio Section) -->
 <div id="portfolio" class="container-fluid text-center bg-grey">
   <h2>Portfolio</h2><br>
@@ -137,23 +123,23 @@
   <div class="row text-center slideanim">
     <div class="col-sm-4">
       <div class="thumbnail">
-          <img src="image/puppy-tp.jpg" alt="puppy-tp" width="400" height="300">
-        <p><strong>InStock</strong></p>
-        <p>Yes, we built Paris</p>
+          <img src="image/empty-tp.jpg" alt="puppy-tp" width="400" height="300">
+        <p><strong>A Void This Mess</strong></p>
+        <p></p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="image/empty-tp.jpg" alt="Empty-tp" width="400" height="300">
-        <p><strong>Damm!</strong></p>
-        <p>We built New York</p>
+          <img src="image/puppy-tp.jpg" alt="Empty-tp" width="400" height="300">
+        <p><strong>Always InStock</strong></p>
+        <p></p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="image/empty-tp1.jpg" alt="San Francisco" width="400" height="300">
-        <p><strong>Damit</strong></p>
-        <p>Yes, San Fran is ours</p>
+          <img src="image/cube-tp.jpg" alt="Cube" width="400" height="300">
+        <p><strong>Smart Packaging</strong></p>
+        <p></p>
       </div>
     </div>
   </div><br>
@@ -202,38 +188,38 @@
     <div class="col-sm-4 col-xs-12">
       <div class="panel panel-default text-center">
         <div class="panel-heading">
-          <h1>One Shot</h1>
+          <h1>Free Trial</h1>
         </div>
         <div class="panel-body">
-          <p><strong>20</strong> Lorem</p>
-          <p><strong>15</strong> Ipsum</p>
-          <p><strong>5</strong> Dolor</p>
-          <p><strong>2</strong> Sit</p>
-          <p><strong>Endless</strong> Amet</p>
+          <p><strong>Try the first one on us</strong> </p>
+          <p><strong></strong> </p>
+          <p><strong></strong> </p>
+          <p><strong></strong> </p>
+          <!--<p><strong>Endless</strong> Amet</p>-->
         </div>
         <div class="panel-footer">
-          <h3>$3.95</h3>
-          <h4>single shot</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <h3>$0.00</h3>
+          <h4>Free Trial</h4>
+          <!--<button class="btn btn-lg">Sign Up</button>-->
         </div>
       </div>      
     </div>     
     <div class="col-sm-4 col-xs-12">
       <div class="panel panel-default text-center">
         <div class="panel-heading">
-          <h1>Single User</h1>
+          <h1>Single Plan</h1>
         </div>
         <div class="panel-body">
-          <p><strong>50</strong> Lorem</p>
-          <p><strong>25</strong> Ipsum</p>
-          <p><strong>10</strong> Dolor</p>
-          <p><strong>5</strong> Sit</p>
-          <p><strong>Endless</strong> Amet</p>
+          <p><strong>Your single but you mingle</strong></p>
+          <p><strong>Receive 3 to 6 rolls a month</strong> </p>
+          <p><strong>You decide how much need</strong> </p>
+          <p><strong>Control your delivery schedule</strong> </p>
+          <!--<p><strong>Endless</strong> Amet</p>-->
         </div>
         <div class="panel-footer">
           <h3>$7.95</h3>
           <h4>per month</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <!--<button class="btn btn-lg">Sign Up</button>-->
         </div>
       </div>      
     </div>       
@@ -243,16 +229,16 @@
           <h1>Family Plan</h1>
         </div>
         <div class="panel-body">
-          <p><strong>100</strong> Lorem</p>
-          <p><strong>50</strong> Ipsum</p>
-          <p><strong>25</strong> Dolor</p>
-          <p><strong>10</strong> Sit</p>
-          <p><strong>Endless</strong> Amet</p>
+          <p><strong>Designed for a family or 4</strong> </p>
+          <p><strong>Receive 4 to 8 rolls a month</strong> </p>
+          <p><strong>You decide how much need</strong> </p>
+          <p><strong>Control your delivery schedule</strong> </p>
+          <!--<p><strong>Endless</strong> Amet</p>-->
         </div>
         <div class="panel-footer">
           <h3>$14.95</h3>
           <h4>per month</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <!--<button class="btn btn-lg">Sign Up</button>-->
         </div>
       </div>      
     </div>    
@@ -292,14 +278,14 @@
 <div id="googleMap" style="height:400px;width:100%;"></div>
 <script>
 function myMap() {
-var myCenter = new google.maps.LatLng(41.878114, -87.629798);
+var myCenter = new google.maps.LatLng(45.516414, -73.676078);
 var mapProp = {center:myCenter, zoom:12, scrollwheel:false, draggable:false, mapTypeId:google.maps.MapTypeId.ROADMAP};
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 var marker = new google.maps.Marker({position:myCenter});
 marker.setMap(map);
 }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC20qbfRWOhhheNitGW4BcjsocQ1VetM8k=myMap"></script>
 <!--
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
